@@ -1,5 +1,5 @@
 {
-  "name": "gaple-engine",
+  "name": "nlggaple",
   "version": "1.0.0",
   "description": "Gaple / Domino Core Game Engine with Server-Authoritative Logic",
   "type": "module",

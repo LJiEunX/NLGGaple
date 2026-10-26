@@ -1,6 +1,6 @@
-# Gaple / Domino Multiplayer Online & Core Engine
+# NLGGaple - Domino Multiplayer Online & Core Engine
 
-Platform game Gaple / Domino online multipemain tradisional Indonesia dengan validasi *server-authoritative*, real-time WebSocket (Socket.io), sistem multi-room, antarmuka web interaktif modern (React 19 + Tailwind CSS), serta **Mode Khusus: "Ala NLGG"**.
+Platform game NLGGaple / Domino online multipemain tradisional Indonesia dengan validasi *server-authoritative*, real-time WebSocket (Socket.io), sistem multi-room, antarmuka web interaktif modern (React 19 + Tailwind CSS), serta **Mode Khusus: "Ala NLGG"**.
 
 ---
 
@@ -38,8 +38,8 @@ Mode variasi kompetitif dengan elemen strategi dan gertakan:
 ### Instalasi & Menjalankan
 ```bash
 # 1. Clone repository
-git clone https://github.com/USERNAME/gaple-online.git
-cd gaple-online
+git clone https://github.com/USERNAME/nlggaple.git
+cd nlggaple
 
 # 2. Install dependensi
 npm install

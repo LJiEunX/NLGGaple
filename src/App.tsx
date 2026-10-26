@@ -632,7 +632,7 @@ export function App() {
           <div>
             <div className="flex items-center gap-1.5 sm:gap-2">
               <h1 className="font-extrabold text-xs sm:text-sm md:text-base tracking-wide text-white group-hover:text-emerald-300 transition-colors">
-                GAPLE ONLINE
+                NLGGAPLE
               </h1>
               {isOnline ? (
                 <span className="flex items-center gap-1 bg-emerald-500/20 text-emerald-400 border border-emerald-500/40 px-1.5 sm:px-2 py-0.5 rounded-full text-[9px] sm:text-[10px] font-bold">

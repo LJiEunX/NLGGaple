@@ -115,8 +115,8 @@ export const Homepage: React.FC<HomepageProps> = ({
     const url = window.location.origin;
     if (navigator.share) {
       navigator.share({
-        title: 'Gaple Online - Domino Tradisional Indonesia',
-        text: 'Ayo main Gaple bareng aku langsung di browser! Tanpa download.',
+        title: 'NLGGaple - Domino Tradisional Indonesia',
+        text: 'Ayo main NLGGaple bareng aku langsung di browser! Tanpa download.',
         url,
       });
     } else {
@@ -144,7 +144,7 @@ export const Homepage: React.FC<HomepageProps> = ({
           <div className="min-w-0">
             <div className="flex items-center gap-1.5 sm:gap-2">
               <span className="font-black text-sm sm:text-base md:text-lg tracking-wider text-white truncate">
-                GAPLE ONLINE
+                NLGGAPLE
               </span>
               <span className="bg-emerald-500/10 text-emerald-400 border border-emerald-500/30 text-[9px] sm:text-[10px] font-bold px-1.5 sm:px-2 py-0.5 rounded-full flex items-center gap-1 shrink-0">
                 <Radio size={9} className="animate-pulse" />
@@ -635,7 +635,7 @@ export const Homepage: React.FC<HomepageProps> = ({
         <div className="bg-slate-900/50 border border-slate-800/80 rounded-3xl p-6 sm:p-8 backdrop-blur-xs">
           <div className="text-center max-w-xl mx-auto mb-8">
             <h2 className="text-lg sm:text-2xl font-black text-white">
-              Kenapa Main di Gaple Online?
+              Kenapa Main di NLGGaple?
             </h2>
             <p className="text-xs text-slate-400 mt-1">
               Dirancang dengan standar kenyamanan bermain domino terbaik untuk Anda
@@ -710,7 +710,7 @@ export const Homepage: React.FC<HomepageProps> = ({
       {/* Footer */}
       <footer className="relative z-10 border-t border-slate-800/60 mt-12 py-6 text-center text-xs text-slate-500">
         <div className="max-w-6xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-3">
-          <p>© 2026 Gaple Online. Dibuat untuk pecinta domino Indonesia.</p>
+          <p>© 2026 NLGGaple. Dibuat untuk pecinta domino Indonesia.</p>
           <div className="flex items-center gap-4">
             <button
               type="button"
